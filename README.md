@@ -1,6 +1,6 @@
 # RecipeBook
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.5.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.5. Part of the Angular 5 (formerly Angular 2) - The Complete Guide Course by Maximilian Schwarzmüller on Udemy.com.
 
 ## Development server
 
