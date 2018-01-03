@@ -9,7 +9,5 @@ import { Component, Output, EventEmitter } from '@angular/core';
 export class HeaderComponent {
   @Output() navselected = new EventEmitter<{navSelected: string}>();
 
-  constructor() {
-
-  }
+  constructor() { }
 }
